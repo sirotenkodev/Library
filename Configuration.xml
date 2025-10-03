@@ -254,10 +254,13 @@
 			<Subsystem>Книги</Subsystem>
 			<Subsystem>ФилиалыБиблиотеки</Subsystem>
 			<Subsystem>Настройки</Subsystem>
+			<SessionParameter>ТекущийПользователь</SessionParameter>
 			<Role>Администратор</Role>
 			<Role>Клиент</Role>
 			<Role>Библиотекарь</Role>
+			<CommonModule>РаботаСПараметрамиСеанса</CommonModule>
 			<FunctionalOption>ИспользоватьФилиалы</FunctionalOption>
+			<DefinedType>ТекущийПользователь</DefinedType>
 			<Constant>ИспользоватьФилиалы</Constant>
 			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Книги</Catalog>
