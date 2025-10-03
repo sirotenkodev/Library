@@ -250,11 +250,23 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Subsystem>Клиенты</Subsystem>
+			<Subsystem>Книги</Subsystem>
+			<Subsystem>ФилиалыБиблиотеки</Subsystem>
+			<Subsystem>Настройки</Subsystem>
+			<Role>Администратор</Role>
+			<Role>Клиент</Role>
+			<Role>Библиотекарь</Role>
+			<FunctionalOption>ИспользоватьФилиалы</FunctionalOption>
+			<Constant>ИспользоватьФилиалы</Constant>
+			<CommonForm>ФормаКонстант</CommonForm>
 			<Catalog>Книги</Catalog>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>ЧитательскиеБилеты</Catalog>
+			<Catalog>ФилиалыБиблиотеки</Catalog>
 			<Document>ВыдачаКниг</Document>
 			<Document>ВозвратКниг</Document>
+			<Document>ПродлениеЧитательскогоБилета</Document>
 			<Report>КнигиВАренде</Report>
 			<InformationRegister>СрокЧитательскогоБилета</InformationRegister>
 			<AccumulationRegister>ВыданныеКниги</AccumulationRegister>
