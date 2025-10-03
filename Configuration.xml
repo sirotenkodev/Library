@@ -253,6 +253,11 @@
 			<Catalog>Книги</Catalog>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>ЧитательскиеБилеты</Catalog>
+			<Document>ВыдачаКниг</Document>
+			<Document>ВозвратКниг</Document>
+			<Report>КнигиВАренде</Report>
+			<InformationRegister>СрокЧитательскогоБилета</InformationRegister>
+			<AccumulationRegister>ВыданныеКниги</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
